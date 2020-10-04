@@ -6,7 +6,7 @@ Other than office work I usually prefer doing something which can help me learn 
 
 That something may be **doing a course, reading blogs, making side projects, teaching**, cooking, painting, singing, reading a novel...
 
-You may find code related to the **bold topics** in this repo.
+You may find code related to the **bold topics** in this id.
 
 Here are some ideas to get you started:
 

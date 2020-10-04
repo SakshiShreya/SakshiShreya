@@ -8,12 +8,9 @@ That something may be **doing a course, reading blogs, making side projects, tea
 
 You may find code related to the **bold topics** in this id.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on making my portfolio site.
-- 🌱 I’m currently learning Advanced TypeScript.
-- 👯 I’m looking to collaborate on any fun project related to web development. I am ready to learn backend.
-- ⚡ Fun fact: I rebuild my portfolio each year. Each one having a link to all previous portfolio. [Current Portfolio](https://sakshishreya.github.io/#/) (This year's portfolio is pending).
+⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐\
+I’m looking to collaborate on any fun project. I am ready to learn any new language/framework.\
+⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 
 How to reach me **(Please mention where you found my contact and the reason for contacting instead of a 'hi' otherwise there is 90% chance that I may ignore your message)**:
 - [Gmail](mailto:shreyasakshi96@gmail.com)

@@ -16,4 +16,4 @@ How to reach me **(Please mention where you found my contact and the reason for 
 - [Gmail](mailto:shreyasakshi96@gmail.com)
 - [Twitter](https://twitter.com/shreyasakshi96)
 - [Linkedin](https://www.linkedin.com/in/sakshishreya/)
-- [Telegram](https://t.me/SakshiShreya)
+- [Telegram](https://t.me/shreyasakshi96)

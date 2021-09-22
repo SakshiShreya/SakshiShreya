@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Frontend web developer in Edelweiss Financial Services.
+I am a Frontend web developer in BookMyShow.
 
 Other than office work I usually prefer doing something which can help me learn something new everyday.
 

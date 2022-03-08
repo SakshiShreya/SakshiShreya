@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-I am a Frontend web developer in BookMyShow.
+I am a Frontend web developer in BookMyShow trying to transition to full stack developer.
 
 Other than office work I usually prefer doing something which can help me learn something new everyday.
 
@@ -12,7 +12,9 @@ You may find code related to the **bold topics** in this id.
 I’m looking to collaborate on any fun project. I am ready to learn any new language/framework.\
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 
-How to reach me **(Please mention where you found my contact and the reason for contacting instead of a 'hi' otherwise there is 90% chance that I may ignore your message)**:
+### How to reach me
+Please mention where you found my contact and the reason for contacting instead of a 'hi' otherwise there is 90% chance that I may ignore your message. Want to know why? Go through this website [NoHello](https://nohello.net/).
+
 - [Gmail](mailto:shreyasakshi96@gmail.com)
 - [Twitter](https://twitter.com/shreyasakshi96)
 - [Linkedin](https://www.linkedin.com/in/sakshishreya/)

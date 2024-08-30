@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I am a Frontend web developer in BookMyShow trying to transition to full stack developer.
+I am a MERN stack developer in BookMyShow.
 
 Other than office work I usually prefer doing something which can help me learn something new everyday.
 
-That something may be **doing a course, reading blogs, making side projects, teaching**, cooking, painting, singing, reading a novel...
+That something may be **doing a course, reading blogs, making side projects, mentoring/teaching**, cooking, painting, singing, reading a novel...
 
 You may find code related to the **bold topics** in this id.
 
@@ -17,5 +17,5 @@ Please mention where you found my contact and the reason for contacting instead 
 
 - [Gmail](mailto:shreyasakshi96@gmail.com)
 - [Twitter](https://twitter.com/shreyasakshi96)
-- [Linkedin](https://www.linkedin.com/in/sakshishreya/)
+- [Linkedin](https://www.linkedin.com/in/sakshishreya)
 - [Telegram](https://t.me/shreyasakshi96)
